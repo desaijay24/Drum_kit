@@ -1,0 +1,1 @@
+The Interactive Drum Kit is a browser-based simulator that lets users play drum sounds by clicking buttons or pressing keys. It features high-quality sound effects and smooth animations for an engaging experience. Built with HTML, CSS, and JavaScript, it ensures seamless interactivity and responsive visuals.
